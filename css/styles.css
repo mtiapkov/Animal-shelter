@@ -1,0 +1,9 @@
+.column {
+  width: 300px;
+  float: left;
+  margin: 12px;
+  border: 2px solid blue;
+  padding: 4px;
+  background-color: lightblue;
+  box-sizing: border-box;
+}
