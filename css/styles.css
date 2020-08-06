@@ -1,5 +1,15 @@
+
+
+.centerStuff {
+  align-items: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 .column {
-  width: 300px;
+  width: 250px;
   float: left;
   margin: 12px;
   border: 2px solid blue;
